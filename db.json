@@ -1,0 +1,71 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "content": "HTML is easy",
+      "important": true
+    },
+    {
+      "id": "2",
+      "content": "Browser can execute only JavaScript",
+      "important": true
+    },
+    {
+      "id": "3",
+      "content": "GET and POST are the most important methods of HTTP protocol",
+      "important": true
+    },
+    {
+      "id": "b9d8",
+      "content": "this is from post method",
+      "important": true
+    },
+    {
+      "id": "a7d2",
+      "content": "this is from post method",
+      "important": false
+    },
+    {
+      "id": "45d2",
+      "content": "",
+      "important": false
+    },
+    {
+      "id": "31a3",
+      "content": "Ganesh Talluri",
+      "important": false
+    },
+    {
+      "id": "7a60",
+      "content": "gyfwfuvcvvcvvc",
+      "important": false
+    },
+    {
+      "id": "6fba",
+      "content": "ewugfy chdjyc",
+      "important": false
+    },
+    {
+      "id": "4212",
+      "content": "dfdfdkjjdlf d;;fhdf;",
+      "important": false
+    }
+  ],
+  "persons": [
+    {
+      "name": "Arto Hellas",
+      "number": "040-123456",
+      "id": "1"
+    },
+    {
+      "name": "Ada Lovelace",
+      "number": "39-44-5323523",
+      "id": "2"
+    },
+    {
+      "name": "Dan Abramov",
+      "number": "12-43-234345",
+      "id": "3"
+    }
+  ]
+}
